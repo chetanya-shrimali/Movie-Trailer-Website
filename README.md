@@ -4,4 +4,4 @@ Movie Trailer website provides you an easy way for the movie lovers to browse th
 # Steps to run the program
 1) Open terminal/cmd in the given directory
 2) Type command
-    python entertainment_center.py
+    # python entertainment_center.py
