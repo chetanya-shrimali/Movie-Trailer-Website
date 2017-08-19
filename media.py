@@ -2,10 +2,11 @@ import webbrowser
 
 
 class Movie:
-    """ This class is used to define various functions of movies like __init__() and show_trailer()"""
+    """ A model of Movie"""
 
-    # function initializes the given parameters
-    def __init__(self, movie_title, movie_storyline, movie_poster_url, movie_trailer_url):
+    def __init__(self, movie_title, movie_storyline,
+                 movie_poster_url, movie_trailer_url):
+        # function is called first and initializes given parameters
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = movie_poster_url
