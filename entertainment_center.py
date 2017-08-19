@@ -39,8 +39,8 @@ shawshank_redemption = media.Movie('Shawshank Redemption',
                                    " common decency.",
                                    "https://upload.wikimedia.org/wikipedia/en"
                                    "/8/81/ShawshankRedemptionMoviePoster.jpg",
-                                   "https://www.youtube.com/watch?v=6hB3S9bIaco"
-                                   )
+                                   "https://www.youtube.com/watch?v="
+                                   "6hB3S9bIaco")
 
 batman_dark_knight = media.Movie('Batman Dark Knight',
                                  "When the menace known as the Joker emerges "
