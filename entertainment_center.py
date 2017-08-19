@@ -27,8 +27,9 @@ forest_gump = media.Movie('Forest Gump',
                           "accidentally been present at many historic "
                           "moments, but his true love, Jenny Curran, eludes "
                           "him.",
-                          "https://en.wikipedia.org/wiki/Forrest_Gump#/media"
-                          "/File:Forrest_Gump_poster.jpg",
+                          "https://resizing.flixster.com/k"
+                          "-FrjLlI2q480TP6nx22eQR06-8=/206x305/v1"
+                          ".bTsxMTE3MzY3NztqOzE3NDk5OzEyMDA7ODAwOzEyMDA",
                           "https://www.youtube.com/watch?v=uPIEn0M8su0")
 
 shawshank_redemption = media.Movie('Shawshank Redemption',
@@ -57,8 +58,8 @@ school_of_rock = media.Movie('School Of Rock',
                              "Finn becomes a substitute teacher of a "
                              "strict elementary private school, only to try "
                              "and turn it into a rock band.",
-                             "https://en.wikipedia.org/wiki/School_of_Rock"
-                             "#/media/File:School_of_Rock_Poster.jpg",
+                             "http://redmusiccentre.com.au/wp-content/uploads"
+                             "/school-of-rock-picture2.jpg",
                              "https://www.youtube.com/watch?v=3PsUJFEBC74")
 
 # list of movies
